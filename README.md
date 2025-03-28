@@ -32,7 +32,3 @@ This project is a **random maze generator** implemented in JavaScript using the 
 ## 🎓 Credits & Inspiration  
 This project was **inspired by Daniel Shiffman** from **The Coding Train** on YouTube.  
 Check out his amazing tutorials: [The Coding Train](https://www.youtube.com/@TheCodingTrain)  
-
-## 📝 License  
-This project is licensed under the MIT License.  
-```
